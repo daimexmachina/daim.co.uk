@@ -1,7 +1,8 @@
 title = "daim.co.uk"
 baseURL = "https://daim.co.uk/"
 languageCode = "en-us"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+#theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = "ananke"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
