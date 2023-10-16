@@ -1,0 +1,4 @@
+baseURL = 'https://daim.co.uk/'
+languageCode = 'en-us'
+title = 'daim.co.uk'
+theme = 'ananke'
