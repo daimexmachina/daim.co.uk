@@ -26,6 +26,18 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   recent_posts_number = 3
 
+#[params.social.Mastodon]
+[[params.ananke_socials]]
+  # weight when arranging icons (the greater the weight, the later the icon is positioned)
+  weight = 0
+  # your social ID
+  #id = "@daim"
+  # prefix of your social link
+  url = "https://mstdn.social/@daim/"
+  # content hovering on the icon
+  name = "Mastodon"
+
+  rel = "me noopener"
 #[[params.ananke_socials]]
 #name = "twitter"
 #url = "https://twitter.com/GoHugoIO"
