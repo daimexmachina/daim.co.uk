@@ -41,10 +41,10 @@ enableRobotsTXT = true
   # your social ID
   #id = "@daim"
   # prefix of your social link
-  url = "https://mstdn.social/@daim/"
+  url = "https://mstdn.social/@daim"
   # content hovering on the icon
   name = "mastodon"
-  rel = "me"
+  rel = "me noopener"
 #[[params.ananke_socials]]
 #name = "twitter"
 #url = "https://twitter.com/GoHugoIO"
