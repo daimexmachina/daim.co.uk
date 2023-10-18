@@ -37,14 +37,13 @@ enableRobotsTXT = true
 #[params.social.Mastodon]
 [[params.ananke_socials]]
   # weight when arranging icons (the greater the weight, the later the icon is positioned)
-  weight = 0
+  # weight = 0
   # your social ID
   #id = "@daim"
   # prefix of your social link
   url = "https://mstdn.social/@daim/"
   # content hovering on the icon
-  name = "Mastodon"
-
+  name = "mastodon"
   rel = "me noopener"
 #[[params.ananke_socials]]
 #name = "twitter"
