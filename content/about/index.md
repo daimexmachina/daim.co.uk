@@ -4,7 +4,7 @@ description: "About daim.co.uk"
 featured_image: '/images/trip.jpg'
 menu:
   main:
-    weight: 1
+    weight: 2
 ---
 {{< figure src="/images/trip.jpg" title="Ye Olde Trip to Jerusalem (1189CE)" >}}
 
