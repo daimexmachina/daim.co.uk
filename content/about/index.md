@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Some information abot daim.co.uk"
+description: "Some information about daim.co.uk"
 featured_image: '/images/trip.jpg'
 menu:
   main:
