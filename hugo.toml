@@ -41,10 +41,22 @@ enableRobotsTXT = true
   # your social ID
   #id = "@daim"
   # prefix of your social link
-  url = "https://mstdn.social/@daim"
-  # content hovering on the icon
   name = "mastodon"
-  rel = "me noopener"
-#[[params.ananke_socials]]
+    url = "https://mstdn.social/@daim"
+    rel = "me noopener"
+    weight = 1
+[[params.ananke_socials]]
+  name = "github"
+    url = "https://github.com/daimexmachina"
+    weight = 2
+[[params.ananke_socials]]
+  name = "keybase"
+    url = "https://keybase.io/daim"
+    weight = 3
+[[params.ananke_socials]]
+  name = "rss"
+    url = "https://daim.co.uk/index.xml"
+    weight = 4
+  #[[params.ananke_socials]]
 #name = "twitter"
 #url = "https://twitter.com/GoHugoIO"
