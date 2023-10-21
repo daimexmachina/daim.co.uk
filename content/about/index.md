@@ -6,7 +6,7 @@ menu:
   main:
     weight: 2
 ---
-This site is..
+This site is...
 + Developed using [HUGO](https://gohugo.io)
 + Uses the [Ananke theme](https://github.com/theNewDynamic/gohugo-theme-ananke)
 + Hosted on [GitHub Pages](https://pages.github.com)
