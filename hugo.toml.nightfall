@@ -1,0 +1,68 @@
+title = "daim (ex machina)"
+baseURL = "https://daim.co.uk/"
+languageCode = "en-us"
+theme = "nightfall"
+ignoreFiles = ['contact.md$']
+[params]
+  user = ""
+  hostname = "daim.co.uk"
+  text_color = ""
+  author = "daim (ex machina)"
+  favicon = ""
+  site_logo = ""
+  description = "daim (ex machina)"
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+#ananke?  background_color_class = "bg-black"
+#ananke?  recent_posts_number = 3
+#ananke?  post_content_classes = "avenir bg-near-white"
+  footerHtml = 'CC-0, Built with <a href="https://gohugo.io" class="footerLink">Hugo</a> and <a href="https://github.com/LordMathis/hugo-theme-nightfall" class="footerLink">Nightfall</a> theme'
+[menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "/posts"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
+[[params.social]]
+  name = "mastodon"
+    url = "https://mstdn.social/@daim"
+    rel = "me noopener"
+    key = 0
+[[params.social]]
+  name = "github"
+    url = "https://github.com/daimexmachina"
+    key = 1
+[[params.social]]
+  name = "keybase"
+    url = "https://keybase.io/daim"
+    key = 2
+[[params.social]]
+  name = "rss"
+    url = "https://daim.co.uk/index.xml"
+    key = 3
+
+resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "daim (ex machina)"
+    weight = 1
+    contentDir = "content"
+    # languageDirection = 'rtl' for Right-To-Left languages
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+  #[[params.ananke_socials]]
+#name = "twitter"
+#url = "https://twitter.com/GoHugoIO"

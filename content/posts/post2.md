@@ -1,5 +1,5 @@
 ---
-date: 2023-20-15T18:19:53-07:00
+date: 2023-10-15T18:19:53-07:00
 description: "Bikes are great!"
 featured_image: "/images/fullstache.jpg"
 tags: ["bike","MTB","Trek","Full Stache"]

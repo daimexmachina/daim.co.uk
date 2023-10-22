@@ -1,0 +1,62 @@
+title = "daim (ex machina)"
+baseURL = "https://daim.co.uk/"
+languageCode = "en-us"
+#theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = "ananke"
+resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "daim (ex machina)"
+    weight = 1
+    contentDir = "content"
+    # languageDirection = 'rtl' for Right-To-Left languages
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  text_color = ""
+  author = "daim"
+  favicon = ""
+  site_logo = ""
+  description = "daim (ex machina)"
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 3
+  post_content_classes = "avenir bg-near-white"
+
+#[params.social.Mastodon]
+[[params.ananke_socials]]
+  # weight when arranging icons (the greater the weight, the later the icon is positioned)
+  # weight = 0
+  # your social ID
+  #id = "@daim"
+  # prefix of your social link
+  name = "mastodon"
+    url = "https://mstdn.social/@daim"
+    rel = "me noopener"
+    weight = 1
+[[params.ananke_socials]]
+  name = "github"
+    url = "https://github.com/daimexmachina"
+    weight = 2
+[[params.ananke_socials]]
+  name = "keybase"
+    url = "https://keybase.io/daim"
+    weight = 3
+[[params.ananke_socials]]
+  name = "rss"
+    url = "https://daim.co.uk/index.xml"
+    weight = 4
+  #[[params.ananke_socials]]
+#name = "twitter"
+#url = "https://twitter.com/GoHugoIO"
