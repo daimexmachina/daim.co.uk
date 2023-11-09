@@ -5,7 +5,7 @@ featured_image: "/images/marcus_aurelius.jpg"
 tags: ["stoicism","stoic"]
 title: "Stocicism"
 ---
-I believe that Stocicism has never been more relevant than today. It's guiding principles assist us in not only understanding what to do in every situation but how we should react.  
+I have been interested in Stocicism for a while and decided to do some reading to understand more. What I have found in a short time is that although Stocicism is literally an ancient philosophy, it has never been more relevant than today. In the modern world of the 21st century, with it's stressors and challenges, it's guiding principles assist us in not only understanding what to do in every situation but how we should react.  
 
 I'm no expert in the philosophy, but the simple guiding phrases and virtues below, I find particularly inspiring and aspirational.  
 
@@ -24,6 +24,8 @@ I'm no expert in the philosophy, but the simple guiding phrases and virtues belo
 - **Temperance** 
 - **Wisdom** 
 - **Courage**  
+
+I certainly plan to do more research and to understand how to apply it's tenets & principles to a greater degree.  
 
 Further, recommended reading: [Meditations by *Marcus Aurelius*](https://www.goodreads.com/book/show/30659.Meditations)
 
