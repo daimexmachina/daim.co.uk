@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Full Stache on daim (ex machina)</title>
+    <link>http://localhost:1313/tags/full-stache/</link>
+    <description>Recent content in Full Stache on daim (ex machina)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Oct 2023 18:19:53 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/full-stache/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Bike</title>
+      <link>http://localhost:1313/posts/post2/</link>
+      <pubDate>Sun, 15 Oct 2023 18:19:53 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post2/</guid>
+      <description>This bike is my pride and joy. It doesn&amp;rsquo;t get out nearly as much as it should do. It&amp;rsquo;s a 2020 Trek Full Stache and the only original parts left on it from new are the bottom bracket and headset. It has a set of custom built wheels using Raceface ARC Offset 40 rims, laced to purple Industry Nine Hydra hubs using black Sapim cx-ray spokes and purple alloy nipples. The drivetrain is full SRAM X01 with a 10-50 cassette.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Surly on daim (ex machina)</title>
+    <link>http://localhost:1313/tags/surly/</link>
+    <description>Recent content in Surly on daim (ex machina)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Oct 2023 18:19:53 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/surly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Like Bikes</title>
+      <link>http://localhost:1313/posts/post1/</link>
+      <pubDate>Tue, 10 Oct 2023 18:19:53 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post1/</guid>
+      <description>This is my daily driver. It&amp;rsquo;s a fully rigid, 29x3.0 tired monster of a bike. You can ride this thing anywhere, for miles. It works on trails, gravel, road, you name it. It ain&amp;rsquo;t light but it sure is purple and I have ridden thousands of miles on this beast. Some hightlights are the fullt chromoly steel Surly frame, the Deity bar and stem, the Spank Oozy Trail 395 wheels, the SRAM G2 RSC brakes and the SRAM GX AXS drivetrain.</description>
+    </item>
+  </channel>
+</rss>

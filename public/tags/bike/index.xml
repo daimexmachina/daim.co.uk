@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bike on daim (ex machina)</title>
+    <link>http://localhost:1313/tags/bike/</link>
+    <description>Recent content in Bike on daim (ex machina)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Oct 2023 18:19:53 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bike/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Bike</title>
+      <link>http://localhost:1313/posts/post2/</link>
+      <pubDate>Sun, 15 Oct 2023 18:19:53 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post2/</guid>
+      <description>This bike is my pride and joy. It doesn&amp;rsquo;t get out nearly as much as it should do. It&amp;rsquo;s a 2020 Trek Full Stache and the only original parts left on it from new are the bottom bracket and headset. It has a set of custom built wheels using Raceface ARC Offset 40 rims, laced to purple Industry Nine Hydra hubs using black Sapim cx-ray spokes and purple alloy nipples. The drivetrain is full SRAM X01 with a 10-50 cassette.</description>
+    </item>
+    <item>
+      <title>I Like Bikes</title>
+      <link>http://localhost:1313/posts/post1/</link>
+      <pubDate>Tue, 10 Oct 2023 18:19:53 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post1/</guid>
+      <description>This is my daily driver. It&amp;rsquo;s a fully rigid, 29x3.0 tired monster of a bike. You can ride this thing anywhere, for miles. It works on trails, gravel, road, you name it. It ain&amp;rsquo;t light but it sure is purple and I have ridden thousands of miles on this beast. Some hightlights are the fullt chromoly steel Surly frame, the Deity bar and stem, the Spank Oozy Trail 395 wheels, the SRAM G2 RSC brakes and the SRAM GX AXS drivetrain.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>daim (ex machina)</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on daim (ex machina)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Nov 2023 18:20:40 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description> Your Name Email Address An email address is required. Message </description>
+    </item>
+    <item>
+      <title>Keto</title>
+      <link>http://localhost:1313/posts/post4/</link>
+      <pubDate>Sun, 19 Nov 2023 18:20:40 -0800</pubDate>
+      <guid>http://localhost:1313/posts/post4/</guid>
+      <description>Keto? There is no better icon for the ketogenic diet than and avocado. For those unfamiliar with the diet, the basic principle is that you stick rigidly to a diet where you keep carbohydrate intake low enough that your body goes into a state called nutritional ketosis. (The reason why the humble avocado is such an icon of the diet is that it represents a highly nutritional food which meets the macros of the diet being relatively high in fat and very low in carbohydrates.</description>
+    </item>
+    <item>
+      <title>Stoicism</title>
+      <link>http://localhost:1313/posts/post3/</link>
+      <pubDate>Wed, 08 Nov 2023 17:19:40 -0800</pubDate>
+      <guid>http://localhost:1313/posts/post3/</guid>
+      <description>I have been interested in Stoic philosophy for a while and decided to do some reading to understand more. What I have found in a short time is that although Stocicism is literally an ancient philosophy, it has never been more relevant than today. In the modern world of the 21st century, with it&amp;rsquo;s stressors and challenges, it&amp;rsquo;s guiding principles assist us in not only understanding what to do in every situation but how we should react.</description>
+    </item>
+    <item>
+      <title>Another Bike</title>
+      <link>http://localhost:1313/posts/post2/</link>
+      <pubDate>Sun, 15 Oct 2023 18:19:53 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post2/</guid>
+      <description>This bike is my pride and joy. It doesn&amp;rsquo;t get out nearly as much as it should do. It&amp;rsquo;s a 2020 Trek Full Stache and the only original parts left on it from new are the bottom bracket and headset. It has a set of custom built wheels using Raceface ARC Offset 40 rims, laced to purple Industry Nine Hydra hubs using black Sapim cx-ray spokes and purple alloy nipples. The drivetrain is full SRAM X01 with a 10-50 cassette.</description>
+    </item>
+    <item>
+      <title>I Like Bikes</title>
+      <link>http://localhost:1313/posts/post1/</link>
+      <pubDate>Tue, 10 Oct 2023 18:19:53 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post1/</guid>
+      <description>This is my daily driver. It&amp;rsquo;s a fully rigid, 29x3.0 tired monster of a bike. You can ride this thing anywhere, for miles. It works on trails, gravel, road, you name it. It ain&amp;rsquo;t light but it sure is purple and I have ridden thousands of miles on this beast. Some hightlights are the fullt chromoly steel Surly frame, the Deity bar and stem, the Spank Oozy Trail 395 wheels, the SRAM G2 RSC brakes and the SRAM GX AXS drivetrain.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>This site is&amp;hellip;&#xA;Developed using HUGO Uses the Ananke theme Hosted on GitHub Pages Built and deployed via Github Actions Thanks for stopping by.&#xA;Please enjoy this photograph of a really old pub.&#xA;Ye Olde Trip to Jerusalem (1189CE) </description>
+    </item>
+  </channel>
+</rss>

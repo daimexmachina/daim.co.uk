@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stoic on daim (ex machina)</title>
+    <link>http://localhost:1313/tags/stoic/</link>
+    <description>Recent content in Stoic on daim (ex machina)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Nov 2023 17:19:40 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/stoic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stoicism</title>
+      <link>http://localhost:1313/posts/post3/</link>
+      <pubDate>Wed, 08 Nov 2023 17:19:40 -0800</pubDate>
+      <guid>http://localhost:1313/posts/post3/</guid>
+      <description>I have been interested in Stoic philosophy for a while and decided to do some reading to understand more. What I have found in a short time is that although Stocicism is literally an ancient philosophy, it has never been more relevant than today. In the modern world of the 21st century, with it&amp;rsquo;s stressors and challenges, it&amp;rsquo;s guiding principles assist us in not only understanding what to do in every situation but how we should react.</description>
+    </item>
+  </channel>
+</rss>

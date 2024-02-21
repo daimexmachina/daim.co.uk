@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keto on daim (ex machina)</title>
+    <link>http://localhost:1313/tags/keto/</link>
+    <description>Recent content in Keto on daim (ex machina)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Nov 2023 18:20:40 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/keto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keto</title>
+      <link>http://localhost:1313/posts/post4/</link>
+      <pubDate>Sun, 19 Nov 2023 18:20:40 -0800</pubDate>
+      <guid>http://localhost:1313/posts/post4/</guid>
+      <description>Keto? There is no better icon for the ketogenic diet than and avocado. For those unfamiliar with the diet, the basic principle is that you stick rigidly to a diet where you keep carbohydrate intake low enough that your body goes into a state called nutritional ketosis. (The reason why the humble avocado is such an icon of the diet is that it represents a highly nutritional food which meets the macros of the diet being relatively high in fat and very low in carbohydrates.</description>
+    </item>
+  </channel>
+</rss>

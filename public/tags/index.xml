@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on daim (ex machina)</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on daim (ex machina)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Nov 2023 18:20:40 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Keto</title>
+      <link>http://localhost:1313/tags/keto/</link>
+      <pubDate>Sun, 19 Nov 2023 18:20:40 -0800</pubDate>
+      <guid>http://localhost:1313/tags/keto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ketogenic Diet</title>
+      <link>http://localhost:1313/tags/ketogenic-diet/</link>
+      <pubDate>Sun, 19 Nov 2023 18:20:40 -0800</pubDate>
+      <guid>http://localhost:1313/tags/ketogenic-diet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ketosis</title>
+      <link>http://localhost:1313/tags/ketosis/</link>
+      <pubDate>Sun, 19 Nov 2023 18:20:40 -0800</pubDate>
+      <guid>http://localhost:1313/tags/ketosis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ketovore</title>
+      <link>http://localhost:1313/tags/ketovore/</link>
+      <pubDate>Sun, 19 Nov 2023 18:20:40 -0800</pubDate>
+      <guid>http://localhost:1313/tags/ketovore/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stoic</title>
+      <link>http://localhost:1313/tags/stoic/</link>
+      <pubDate>Wed, 08 Nov 2023 17:19:40 -0800</pubDate>
+      <guid>http://localhost:1313/tags/stoic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stoicism</title>
+      <link>http://localhost:1313/tags/stoicism/</link>
+      <pubDate>Wed, 08 Nov 2023 17:19:40 -0800</pubDate>
+      <guid>http://localhost:1313/tags/stoicism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bike</title>
+      <link>http://localhost:1313/tags/bike/</link>
+      <pubDate>Sun, 15 Oct 2023 18:19:53 -0700</pubDate>
+      <guid>http://localhost:1313/tags/bike/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Full Stache</title>
+      <link>http://localhost:1313/tags/full-stache/</link>
+      <pubDate>Sun, 15 Oct 2023 18:19:53 -0700</pubDate>
+      <guid>http://localhost:1313/tags/full-stache/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MTB</title>
+      <link>http://localhost:1313/tags/mtb/</link>
+      <pubDate>Sun, 15 Oct 2023 18:19:53 -0700</pubDate>
+      <guid>http://localhost:1313/tags/mtb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Trek</title>
+      <link>http://localhost:1313/tags/trek/</link>
+      <pubDate>Sun, 15 Oct 2023 18:19:53 -0700</pubDate>
+      <guid>http://localhost:1313/tags/trek/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Krampus</title>
+      <link>http://localhost:1313/tags/krampus/</link>
+      <pubDate>Tue, 10 Oct 2023 18:19:53 -0700</pubDate>
+      <guid>http://localhost:1313/tags/krampus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Surly</title>
+      <link>http://localhost:1313/tags/surly/</link>
+      <pubDate>Tue, 10 Oct 2023 18:19:53 -0700</pubDate>
+      <guid>http://localhost:1313/tags/surly/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
