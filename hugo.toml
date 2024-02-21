@@ -1,3 +1,4 @@
+#Config for use with the Ananke theme.
 title = "daim (ex machina)"
 baseURL = "https://daim.co.uk/"
 languageCode = "en-us"
