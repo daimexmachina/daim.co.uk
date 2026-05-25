@@ -2,110 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://daim.co.uk/posts/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://daim.co.uk/</loc>
     <lastmod>2023-11-19T18:20:40-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/keto/</loc>
+    <loc>https://daim.co.uk/tags/keto/</loc>
     <lastmod>2023-11-19T18:20:40-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/post4/</loc>
+    <loc>https://daim.co.uk/posts/post4/</loc>
     <lastmod>2023-11-19T18:20:40-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/ketogenic-diet/</loc>
+    <loc>https://daim.co.uk/tags/ketogenic-diet/</loc>
     <lastmod>2023-11-19T18:20:40-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/ketosis/</loc>
+    <loc>https://daim.co.uk/tags/ketosis/</loc>
     <lastmod>2023-11-19T18:20:40-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/ketovore/</loc>
+    <loc>https://daim.co.uk/tags/ketovore/</loc>
     <lastmod>2023-11-19T18:20:40-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://daim.co.uk/tags/</loc>
     <lastmod>2023-11-19T18:20:40-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/stoic/</loc>
+    <loc>https://daim.co.uk/tags/stoic/</loc>
     <lastmod>2023-11-08T17:19:40-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/stoicism/</loc>
+    <loc>https://daim.co.uk/tags/stoicism/</loc>
     <lastmod>2023-11-08T17:19:40-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/post3/</loc>
+    <loc>https://daim.co.uk/posts/post3/</loc>
     <lastmod>2023-11-08T17:19:40-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/post2/</loc>
+    <loc>https://daim.co.uk/posts/post2/</loc>
     <lastmod>2023-10-15T18:19:53-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/bike/</loc>
+    <loc>https://daim.co.uk/tags/bike/</loc>
     <lastmod>2023-10-15T18:19:53-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/full-stache/</loc>
+    <loc>https://daim.co.uk/tags/full-stache/</loc>
     <lastmod>2023-10-15T18:19:53-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/mtb/</loc>
+    <loc>https://daim.co.uk/tags/mtb/</loc>
     <lastmod>2023-10-15T18:19:53-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/trek/</loc>
+    <loc>https://daim.co.uk/tags/trek/</loc>
     <lastmod>2023-10-15T18:19:53-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/post1/</loc>
+    <loc>https://daim.co.uk/posts/post1/</loc>
     <lastmod>2023-10-10T18:19:53-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/krampus/</loc>
+    <loc>https://daim.co.uk/tags/krampus/</loc>
     <lastmod>2023-10-10T18:19:53-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/surly/</loc>
+    <loc>https://daim.co.uk/tags/surly/</loc>
     <lastmod>2023-10-10T18:19:53-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://daim.co.uk/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://daim.co.uk/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on daim (ex machina)</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://daim.co.uk/tags/</link>
     <description>Recent content in Tags on daim (ex machina)</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 19 Nov 2023 18:20:40 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://daim.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Keto</title>
-      <link>http://localhost:1313/tags/keto/</link>
+      <link>https://daim.co.uk/tags/keto/</link>
       <pubDate>Sun, 19 Nov 2023 18:20:40 -0800</pubDate>
-      <guid>http://localhost:1313/tags/keto/</guid>
+      <guid>https://daim.co.uk/tags/keto/</guid>
       <description></description>
     </item>
     <item>
       <title>Ketogenic Diet</title>
-      <link>http://localhost:1313/tags/ketogenic-diet/</link>
+      <link>https://daim.co.uk/tags/ketogenic-diet/</link>
       <pubDate>Sun, 19 Nov 2023 18:20:40 -0800</pubDate>
-      <guid>http://localhost:1313/tags/ketogenic-diet/</guid>
+      <guid>https://daim.co.uk/tags/ketogenic-diet/</guid>
       <description></description>
     </item>
     <item>
       <title>Ketosis</title>
-      <link>http://localhost:1313/tags/ketosis/</link>
+      <link>https://daim.co.uk/tags/ketosis/</link>
       <pubDate>Sun, 19 Nov 2023 18:20:40 -0800</pubDate>
-      <guid>http://localhost:1313/tags/ketosis/</guid>
+      <guid>https://daim.co.uk/tags/ketosis/</guid>
       <description></description>
     </item>
     <item>
       <title>Ketovore</title>
-      <link>http://localhost:1313/tags/ketovore/</link>
+      <link>https://daim.co.uk/tags/ketovore/</link>
       <pubDate>Sun, 19 Nov 2023 18:20:40 -0800</pubDate>
-      <guid>http://localhost:1313/tags/ketovore/</guid>
+      <guid>https://daim.co.uk/tags/ketovore/</guid>
       <description></description>
     </item>
     <item>
       <title>Stoic</title>
-      <link>http://localhost:1313/tags/stoic/</link>
+      <link>https://daim.co.uk/tags/stoic/</link>
       <pubDate>Wed, 08 Nov 2023 17:19:40 -0800</pubDate>
-      <guid>http://localhost:1313/tags/stoic/</guid>
+      <guid>https://daim.co.uk/tags/stoic/</guid>
       <description></description>
     </item>
     <item>
       <title>Stoicism</title>
-      <link>http://localhost:1313/tags/stoicism/</link>
+      <link>https://daim.co.uk/tags/stoicism/</link>
       <pubDate>Wed, 08 Nov 2023 17:19:40 -0800</pubDate>
-      <guid>http://localhost:1313/tags/stoicism/</guid>
+      <guid>https://daim.co.uk/tags/stoicism/</guid>
       <description></description>
     </item>
     <item>
       <title>Bike</title>
-      <link>http://localhost:1313/tags/bike/</link>
+      <link>https://daim.co.uk/tags/bike/</link>
       <pubDate>Sun, 15 Oct 2023 18:19:53 -0700</pubDate>
-      <guid>http://localhost:1313/tags/bike/</guid>
+      <guid>https://daim.co.uk/tags/bike/</guid>
       <description></description>
     </item>
     <item>
       <title>Full Stache</title>
-      <link>http://localhost:1313/tags/full-stache/</link>
+      <link>https://daim.co.uk/tags/full-stache/</link>
       <pubDate>Sun, 15 Oct 2023 18:19:53 -0700</pubDate>
-      <guid>http://localhost:1313/tags/full-stache/</guid>
+      <guid>https://daim.co.uk/tags/full-stache/</guid>
       <description></description>
     </item>
     <item>
       <title>MTB</title>
-      <link>http://localhost:1313/tags/mtb/</link>
+      <link>https://daim.co.uk/tags/mtb/</link>
       <pubDate>Sun, 15 Oct 2023 18:19:53 -0700</pubDate>
-      <guid>http://localhost:1313/tags/mtb/</guid>
+      <guid>https://daim.co.uk/tags/mtb/</guid>
       <description></description>
     </item>
     <item>
       <title>Trek</title>
-      <link>http://localhost:1313/tags/trek/</link>
+      <link>https://daim.co.uk/tags/trek/</link>
       <pubDate>Sun, 15 Oct 2023 18:19:53 -0700</pubDate>
-      <guid>http://localhost:1313/tags/trek/</guid>
+      <guid>https://daim.co.uk/tags/trek/</guid>
       <description></description>
     </item>
     <item>
       <title>Krampus</title>
-      <link>http://localhost:1313/tags/krampus/</link>
+      <link>https://daim.co.uk/tags/krampus/</link>
       <pubDate>Tue, 10 Oct 2023 18:19:53 -0700</pubDate>
-      <guid>http://localhost:1313/tags/krampus/</guid>
+      <guid>https://daim.co.uk/tags/krampus/</guid>
       <description></description>
     </item>
     <item>
       <title>Surly</title>
-      <link>http://localhost:1313/tags/surly/</link>
+      <link>https://daim.co.uk/tags/surly/</link>
       <pubDate>Tue, 10 Oct 2023 18:19:53 -0700</pubDate>
-      <guid>http://localhost:1313/tags/surly/</guid>
+      <guid>https://daim.co.uk/tags/surly/</guid>
       <description></description>
     </item>
   </channel>
