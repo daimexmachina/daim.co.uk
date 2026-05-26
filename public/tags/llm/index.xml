@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Llm on daim (ex machina)</title>
+    <link>https://daim.co.uk/tags/llm/</link>
+    <description>Recent content in Llm on daim (ex machina)</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 May 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://daim.co.uk/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Future of Autonomy: My Journey with Hermes Agent and Gemma 4</title>
+      <link>https://daim.co.uk/posts/hermes-gemma4/</link>
+      <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
+      <guid>https://daim.co.uk/posts/hermes-gemma4/</guid>
+      <description>For a long time, the promise of AI assistants was &amp;ldquo;chatting&amp;rdquo;—a conversational interface that could answer questions or summarize text. But the leap from a chatbot to an agent is where the real magic happens.&#xA;Over the past few months, I&amp;rsquo;ve been integrating Hermes Agent into my daily workflow, and the results have been transformative. Powered by Gemma 4, the experience is no longer just about asking and receiving; it&amp;rsquo;s about delegation and execution.</description>
+    </item>
+  </channel>
+</rss>

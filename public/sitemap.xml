@@ -7,8 +7,43 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://daim.co.uk/tags/ai/</loc>
+    <lastmod>2026-05-25T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://daim.co.uk/tags/automation/</loc>
+    <lastmod>2026-05-25T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://daim.co.uk/</loc>
-    <lastmod>2023-11-19T18:20:40-08:00</lastmod>
+    <lastmod>2026-05-25T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://daim.co.uk/tags/gemma4/</loc>
+    <lastmod>2026-05-25T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://daim.co.uk/tags/hermes-agent/</loc>
+    <lastmod>2026-05-25T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://daim.co.uk/tags/llm/</loc>
+    <lastmod>2026-05-25T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://daim.co.uk/tags/</loc>
+    <lastmod>2026-05-25T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://daim.co.uk/posts/hermes-gemma4/</loc>
+    <lastmod>2026-05-25T12:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -33,11 +68,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://daim.co.uk/tags/ketovore/</loc>
-    <lastmod>2023-11-19T18:20:40-08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://daim.co.uk/tags/</loc>
     <lastmod>2023-11-19T18:20:40-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
