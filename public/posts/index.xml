@@ -6,8 +6,15 @@
     <description>Recent content in Posts on daim (ex machina)</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Nov 2023 18:20:40 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://daim.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Future of Autonomy: My Journey with Hermes Agent and Gemma 4</title>
+      <link>https://daim.co.uk/posts/hermes-gemma4/</link>
+      <pubDate>Mon, 25 May 2026 12:00:00 +0000</pubDate>
+      <guid>https://daim.co.uk/posts/hermes-gemma4/</guid>
+      <description>For a long time, the promise of AI assistants was &amp;ldquo;chatting&amp;rdquo;—a conversational interface that could answer questions or summarize text. But the leap from a chatbot to an agent is where the real magic happens.&#xA;Over the past few months, I&amp;rsquo;ve been integrating Hermes Agent into my daily workflow, and the results have been transformative. Powered by Gemma 4, the experience is no longer just about asking and receiving; it&amp;rsquo;s about delegation and execution.</description>
+    </item>
     <item>
       <title>Keto</title>
       <link>https://daim.co.uk/posts/post4/</link>
