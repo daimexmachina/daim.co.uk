@@ -1,7 +1,7 @@
 ---
 title: "The Future of Autonomy: My Journey with Hermes Agent and Gemma 4"
 date: 2026-05-25T12:00:00Z
-featured_image: "/images/hermes-logo.png"
+featured_image: ''
 description: "Exploring the synergy between the autonomous Hermes Agent framework and the intelligence of Gemma 4."
 tags: ["ai", "llm", "automation", "hermes-agent", "gemma4"]
 ---
